@@ -1,0 +1,2 @@
+alert("meu script");
+
